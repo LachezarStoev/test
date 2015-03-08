@@ -40,7 +40,7 @@ public class SecondServlet extends HttpServlet {
 
 	@Override
 	public void init() throws ServletException {
-		System.out.println("SECOND SERVLET!");
+		System.out.println("THIRD SERVLET!");
 
 	}
 
